@@ -6,8 +6,8 @@
 
   <info>
     <title>Custom Author-Year (et al.)</title>
-    <id>http://www.zotero.org/styles/custom-author-year-et-al</id>
-    <link href="http://www.zotero.org/styles/custom-author-year-et-al" rel="self"/>
+    <id>https://raw.githubusercontent.com/Smotr00/PSEP_S/refs/heads/main/custom-author-year-et-al.csl</id>
+    <link href="http://raw.githubusercontent.com/Smotr00/PSEP_S/refs/heads/main/custom-author-year-et-al.csl" rel="self"/>
     <author>
       <name>Custom</name>
     </author>
@@ -50,7 +50,7 @@
             delimiter=", "
             initialize-with="."
             delimiter-precedes-last="always"/>
-      <et-al term="et-al" font-style="italic"/>
+      <et-al term="et-al"/>
     </names>
   </macro>
 
